@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+greeting:
+  message: Salom bu configdan kelyapti ))
+
+
+common:
+  message: Buyam configda ))
