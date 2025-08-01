@@ -1,0 +1,9 @@
+server:
+  port: 9070
+
+greeting:
+  message: Dev Salom bu configdan kelyapti ))
+
+
+common:
+  message: Dev Buyam configda ))
