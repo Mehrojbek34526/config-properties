@@ -2,7 +2,7 @@ server:
   port: 9070
 
 greeting:
-  message: Agar buni ko'rayotgan bo'lsang github webhook ishlagan va env refresh bo'lgan shunaqami ?)) charchadi odameeee
+  message: BlaBla
 
 
 common:
