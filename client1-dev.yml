@@ -2,7 +2,7 @@ server:
   port: 9070
 
 greeting:
-  message: BlaBla
+  message: BlaBla dtdttd
 
 
 common:
